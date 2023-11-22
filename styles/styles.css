@@ -1,0 +1,15 @@
+.mane {display: flex;}
+.left {background-color: #CDDBFF;
+margin-top:30px ;
+margin-left:20px ;
+margin-right:20px ;
+margin-bottom:20px ;
+}
+
+.pravo {background-color: #768CFF;
+margin-top: 30px; ;
+margin-left:20px ;
+margin-bottom:20px ;
+margin-right:20px ;
+}
+.imya {margin-left: 20px;}
